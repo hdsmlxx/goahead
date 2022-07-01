@@ -10,6 +10,7 @@ public class MultiThreadProcess {
 
     public static void main(String[] args) {
 
+        System.out.println();
         System.out.println("多线程处理事务");
 
     }
